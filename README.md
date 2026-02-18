@@ -2,11 +2,11 @@
 
 Checkout system for an NFT marketplace. Calculates cart totals with real-time floor prices from OpenSea and configurable promotional discounts.
 
-
 https://www.loom.com/share/96b9e278ca1f45889618660d61889943
 
 
 If you wanna test yourself in web browser, you can use this link:
+https://front-pied-zeta.vercel.app/
 
 ## Quick Start
 
