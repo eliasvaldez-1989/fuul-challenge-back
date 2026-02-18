@@ -188,6 +188,9 @@ npm run test:watch
 npm run test:coverage
 ```
 
+<img width="700" height="673" alt="image" src="https://github.com/user-attachments/assets/7669da00-8604-4dd0-8da5-7abe83ae7981" />
+
+
 Mock prices: APE=75, PUNK=60, AZUKI=30, MEEBIT=4 ETH.
 
 
